@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BinaryConverter/static/css/main.29a3144e.css",
+    "main.js": "/BinaryConverter/static/js/main.a506beb0.js",
+    "static/js/787.fa2af566.chunk.js": "/BinaryConverter/static/js/787.fa2af566.chunk.js",
+    "index.html": "/BinaryConverter/index.html",
+    "main.29a3144e.css.map": "/BinaryConverter/static/css/main.29a3144e.css.map",
+    "main.a506beb0.js.map": "/BinaryConverter/static/js/main.a506beb0.js.map",
+    "787.fa2af566.chunk.js.map": "/BinaryConverter/static/js/787.fa2af566.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29a3144e.css",
+    "static/js/main.a506beb0.js"
+  ]
+}
